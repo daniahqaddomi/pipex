@@ -1,6 +1,6 @@
 # Pipex
 
-**Pipex** is a project that simulates the behavior of a shell pipeline. It allows you to execute multiple commands with input/output redirection and piping between them.
+**Pipex** is a project written in C that simulates the behavior of a shell pipeline. It allows you to execute multiple commands with input/output redirection and piping between them.
 
 ## What I Did
 - Used **fork()** to create child processes for executing commands.
